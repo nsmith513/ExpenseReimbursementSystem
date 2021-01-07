@@ -1,0 +1,16 @@
+.overflow-hover {
+    max-width: 14rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.overflow-hover:hover {
+    white-space: normal;
+    overflow: visible;
+}
+
+@keyframes fade-out {
+   0% { opacity: 1; }
+   80% { opacity: 1; }
+   100% { opacity: 0; }
+}
