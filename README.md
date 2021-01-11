@@ -45,8 +45,10 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 
 ## Usage
 
-<img src="screenshots/login.png" width="48">
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+Employees can login, create new reimbursement tickets and view their ticket history.
+<img src="screenshots/login.png" height="200">
+<img src="screenshots/create-ticket.png" height="200">
+<img src="screenshots/user-history.png" height="200">
 
 ## License
 
