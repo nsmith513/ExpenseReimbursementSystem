@@ -39,6 +39,19 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 - All the `code` required to get started
 - Images of what it should look like
 
+* Clone project with `git clone https://github.com/nsmith513/ExpenseReimbursementSystem.git`
+* Use schema.sql to set up your postgres database
+* Create a JSON file with the following properties:
+```json
+{
+    "url": YOUR DB URL HERE
+    "username": YOUR USERNAME HERE
+    "password": YOUR PASSWORD HERE
+}
+```
+* Update src/main/resources/log4j.properties with the location of your JSON file
+* Compile project with Maven and deploy to Tomcat
+
 ## Usage
 
 > Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
