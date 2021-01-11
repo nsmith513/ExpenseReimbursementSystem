@@ -59,6 +59,8 @@ Finance managers can resolve pending tickets and view past tickets of all employ
 
 <p align="center">
    <kbd><img src="screenshots/resolve.png" height="400"/></kbd>
+   <br/>
+   <br/>
    <kbd><img src="screenshots/all-history.png" height="400"/></kbd>
 </p>
 
