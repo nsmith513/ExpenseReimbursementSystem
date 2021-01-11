@@ -18,9 +18,12 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 
 ## Features
 
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Facilitate reimbursements for all employees
+    * Track author, description, submission/resolution dates and more for each ticket
+    * Amounts stored using non-floating-point datatypes for perfect precision
+* Manage reimbursement tickets
+    * Approve or deny by company policy
+    * View all past tickets and filter by status
 
 ## Getting Started
    
