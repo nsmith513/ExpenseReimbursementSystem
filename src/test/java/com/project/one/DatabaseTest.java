@@ -37,10 +37,10 @@ public abstract class DatabaseTest {
 		DataAccessObject.connect(conn);
 		
 		// Set up the database schema
-		conn.prepareStatement(Support.readFile(new File("../ExpenseReimbursementSystem_Schema.sql"))).executeUpdate();
+		conn.prepareStatement(Support.readFile(new File("./schema.sql"))).executeUpdate();
 		
 		// Prepare statement to reset all data in the database
-		psResetData = conn.prepareStatement(Support.readFile(new File("../ExpenseReimbursementSystem_SchemaTesting.sql")));
+		psResetData = conn.prepareStatement(Support.readFile(new File("./schema-testing.sql")));
 		
 		// Define some utility statements
 		psSelectUserId = connection().prepareStatement("SELECT ers_users_id FROM users WHERE ers_username = ?");
