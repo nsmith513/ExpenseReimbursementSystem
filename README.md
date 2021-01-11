@@ -51,6 +51,7 @@ Employees can login, create new reimbursement tickets and view their ticket hist
    <kbd><img src="screenshots/login.png" height="400"/></kbd>
    <kbd><img src="screenshots/create-ticket.png" height="400"/></kbd>
    <br/>
+   <br/>
    <kbd><img src="screenshots/user-history.png" height="400"/></kbd>
 </p>
 
