@@ -25,6 +25,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * Manage reimbursement tickets
     * Approve or deny by company policy
     * View all past tickets and filter by status
+* Client-side and server-side input validation
 * Elegant and responsive styling for easy viewing on desktop and mobile platforms
 
 ## Getting Started
