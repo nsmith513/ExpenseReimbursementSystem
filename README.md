@@ -44,9 +44,9 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * Create a JSON file with the following properties:
 ```json
 {
-    "url": YOUR DB URL HERE
-    "username": YOUR USERNAME HERE
-    "password": YOUR PASSWORD HERE
+    "url": "YOUR DB URL HERE",
+    "username": "YOUR USERNAME HERE",
+    "password": "YOUR PASSWORD HERE"
 }
 ```
 * Update src/main/resources/log4j.properties with the location of your JSON file
