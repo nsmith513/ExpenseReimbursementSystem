@@ -48,10 +48,17 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 Employees can login, create new reimbursement tickets and view their ticket history.
 
 <p align="center">
-   <img src="screenshots/login.png" height="400" border="1px solid black">
-   <img src="screenshots/create-ticket.png" height="400" border="1px solid black">
+   <img src="screenshots/login.png" height="400">
+   <img src="screenshots/create-ticket.png" height="400">
    <br/>
-   <img src="screenshots/user-history.png" height="400" border="1px solid black">
+   <img src="screenshots/user-history.png" height="400">
+</p>
+
+Finance managers can resolve pending tickets and view past tickets of all employees.
+
+<p align="center">
+   <img src="screenshots/resolve.png" height="400">
+   <img src="screenshots/all-history.png" height="400">
 </p>
 
 ## License
