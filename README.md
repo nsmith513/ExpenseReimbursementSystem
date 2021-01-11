@@ -45,7 +45,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 
 ## Usage
 
-![login](screenshots/login.png)
+<img src="screenshots/login.png" width="48">
 > Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
 
 ## License
