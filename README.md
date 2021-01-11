@@ -15,6 +15,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * PostgreSQL
 * Java, Maven, JDBC & JUnit
 * HTML, CSS & JavaScript
+* Bootstrap 5
 
 ## Features
 
@@ -24,6 +25,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * Manage reimbursement tickets
     * Approve or deny by company policy
     * View all past tickets and filter by status
+* Elegant and responsive styling for easy viewing on desktop and mobile platforms
 
 ## Getting Started
    
