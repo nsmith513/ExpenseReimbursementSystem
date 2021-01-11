@@ -4,11 +4,17 @@
 
 The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Finance managers can log in and view all reimbursement requests and past history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement.
 
+## IDEs Used
+
+* DBeaver
+* Spring Tools Suite
+* Visual Studio Code
+
 ## Technologies Used
 
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* PostgreSQL
+* Java, Maven, JDBC & JUnit
+* HTML, CSS & JavaScript
 
 ## Features
 
