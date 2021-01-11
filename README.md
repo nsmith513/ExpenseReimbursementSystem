@@ -45,4 +45,4 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 
 ## License
 
-This project uses the following license: [<license_name>](<link>).
+Created by Nicholas Smith, licenced under Apache 2.0: https://www.apache.org/licenses/LICENSE-2.0.html
