@@ -41,7 +41,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 }
 ```
 * Update src/main/resources/daoConfig.json with the location of your JSON file
-* Compile project with Maven and deploy to Tomcat
+* Compile project with Maven and deploy to Tomcat on port 9047
 
 ## Usage
 
