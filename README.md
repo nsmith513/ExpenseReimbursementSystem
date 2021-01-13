@@ -40,7 +40,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
     "password": "YOUR PASSWORD HERE"
 }
 ```
-* Update src/main/resources/log4j.properties with the location of your JSON file
+* Update src/main/resources/daoConfig.json with the location of your JSON file
 * Compile project with Maven and deploy to Tomcat
 
 ## Usage
